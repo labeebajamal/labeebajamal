@@ -43,10 +43,10 @@ Worked on **digital workflows, data organization, automation, website projects, 
 
 **Data Analytics** • **SQL** • **AI/ML** • **Power BI** • **Business Intelligence**
 
-## 🎯 Career Goal
+##  Career Goal
 
 To become a skilled **Data Analyst** and build meaningful, data-driven solutions that solve real-world business problems.
 
-📫 **Let's Connect & Build Something Great!**
+ **Let's Connect & Build Something Great!**
 
 > **Learn • Build • Analyze • Innovate 🚀**
