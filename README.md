@@ -1,7 +1,7 @@
 # Hi, I'm Labeeba Jamal 👋
 
 🎓 BCA Artificial Intelligence & Data Science Student  
-📊 Aspiring Data Analyst | 🤖 AI Enthusiast
+📊 Aspiring Data Analyst 
 
 ## 🛠️ Skills
 Python • SQL • Pandas • NumPy • Power BI • Excel • Streamlit • Git & GitHub
