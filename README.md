@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Labeeba Jamal 👋
 
-<!--
-**labeebajamal/labeebajamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Artificial Intelligence & Data Science Student  
+📊 Aspiring Data Analyst | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+Python • SQL • Pandas • NumPy • Power BI • Excel • Streamlit • Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 📊 **ShopSphere** – Power BI Sales & Shipping Dashboard
+- 📈 **NovaMart** – Streamlit Profitability & Discount Analysis
+- ⚙️ **Workflow Automation** – Google Forms, Sheets & Zapier
+
+## 💼 Experience
+**Smart Office Coordinator Trainee – Zenith Solutions**  
+Worked on digital workflows, automation, websites and data-driven projects.
+
+## 🏆 Achievements
+- Completed Virtual OJT Programme
+- Built practical Data Analytics & AI projects
+
+## 📚 Currently Learning
+Data Analytics • SQL • AI/ML • Power BI
+
+📫 **Let's Connect & Build Something Great!**
